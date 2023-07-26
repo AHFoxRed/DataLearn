@@ -1,3 +1,6 @@
-#  Домашнее задание (модуль 1)
-- Архитектура аналитического решения
-- Аналитика в Excel
+#  Module 1
+## Architecture of analytic solution 
+The architecture consists of three layers:
++ Source layer
++ Storage layer
++ Acces layer
